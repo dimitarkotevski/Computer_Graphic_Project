@@ -1,0 +1,22 @@
+﻿  Application.cpp
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(86,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(87,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(88,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(89,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(90,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(92,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(93,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(94,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(95,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(96,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(97,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Material.h(98,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Terrain.h(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Terrain.h(369,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Terrain.h(507,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Application.cpp(109,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Application.cpp(114,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Application.cpp(115,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Application.cpp(116,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\OpenGL\src\Application.cpp(176,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\dimit\Desktop\Project KA and KG\OpenGL-project\Debug\OpenGL.exe

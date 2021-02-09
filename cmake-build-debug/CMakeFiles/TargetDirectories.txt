@@ -1,0 +1,3 @@
+C:/Users/dimit/Desktop/OpenGL-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dimit/Desktop/OpenGL-master/cmake-build-debug/CMakeFiles/OpenGL_master.dir
+C:/Users/dimit/Desktop/OpenGL-master/cmake-build-debug/CMakeFiles/edit_cache.dir
